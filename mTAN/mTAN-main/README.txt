@@ -1,0 +1,1 @@
+To train and test the nTAN model, run the file "mTAN_Benchmarking.ipynb". 
